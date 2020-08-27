@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewMultiTypeDemo</string>
+    <string name="text_view_count">阅读：%s</string>
+    <string name="text_comment_count">评论：%s</string>
+</resources>
